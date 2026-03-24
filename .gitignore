@@ -1,8 +1,16 @@
 EOF
+<<<<<<< HEAD
 # Virtual environment
 venv/
 .venv/
 env/
+=======
+
+# Virtual environment
+venv/
+env/
+.venv/
+>>>>>>> 864b9b3 (Initial commit: setup test framework)
 
 # Python
 __pycache__/
@@ -16,6 +24,7 @@ __pycache__/
 htmlcov/
 .coverage
 
+<<<<<<< HEAD
 # IDE
 .vscode/
 .idea/
@@ -25,8 +34,44 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
+=======
+# Node
+node_modules/
+dist/
+build/
+.next/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# SQL / Database
+*.sqlite
+*.sqlite3
+*.db
+
+>>>>>>> 864b9b3 (Initial commit: setup test framework)
 # Test outputs
 screenshots/
 test-results/
 allure-results/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 864b9b3 (Initial commit: setup test framework)
 EOF
