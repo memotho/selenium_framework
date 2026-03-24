@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-attrs==25.4.0
-certifi==2026.1.4
-=======
 attrs==26.1.0
 certifi==2026.2.25
->>>>>>> 864b9b3 (Initial commit: setup test framework)
 h11==0.16.0
 idna==3.11
 iniconfig==2.3.0
